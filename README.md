@@ -11,3 +11,5 @@ Collection of Unity3D Resources
 7. http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/comment-page-1/
 8. http://kotaku.com/5979539/a-beginners-guide-to-making-your-first-video-game
 9. http://www.m2h.nl/unity/
+10. http://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384
+11. http://gladys5.rssing.com/chan-4089628/all_p3.html
